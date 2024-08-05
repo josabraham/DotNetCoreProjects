@@ -1,0 +1,10 @@
+# .gitignore for .NET projects
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.vscode/
